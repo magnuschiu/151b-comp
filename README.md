@@ -7,3 +7,5 @@ GRPO and LoRA fine-tuning.  (currently the code is only generating for private.j
 The fast gen notebook has been converted to run_inference.py and can be run as is.
 
 DIRECTORIES NEED TO BE ADJUSTED (THE NOTEBOOKS WERE RUN ON KAGGLE NOTEBOOKS AND ARE A BIT DIFFERENT WITH THE ROOTS AND STUFF) 
+
+i tried my best. its hard given the circumstances, i had.
