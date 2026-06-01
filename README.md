@@ -1,5 +1,5 @@
 Ok so due to unfortunate circumstances, we didn't have enough time to run everything our code does, so there are two notebooks. 
-One is our theoretical best model. (Will prob go over in final report)
+One is our theoretical best model. (Will prob go over in final report). (IT CRASHED BEFORE sAVING AHHAHAHAHAHHAHAHHAHHHAHAHHAHAHHAAAAAAAAAAA)
 The other was used for fast generation of answers (what we submitted)
 
 To run the theoretical notebook. For the first run, we would switch the dataset to public.jsonl and generate responses after the whole notebook has run, it will have trained the GRPO and LoRA. And now we would run the generation again but now on private.jsonl and it would have our
