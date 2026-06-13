@@ -8,13 +8,14 @@ GRPO and LoRA fine-tuning.  (currently the code is only generating for private.j
 The fast gen notebook has been converted to run_inference.py and can be run as is.
 
 UPDATED CODE: look at (https://github.com/magnuschiu/151b-comp#:~:text=cse151b_final_notebook.py) may need to adjust the code a bit for using private. update: should run fine, change this code for runs
-# ── master switches ──────────────────────────────────────────────────────────
+```# ── master switches ──────────────────────────────────────────────────────────
 SMOKE_TEST  = True      # <<< flip to False for the real runs
 RUN_A       = True
 RUN_B       = True
 RUN_C       = True
 RUN_D       = True
 RUN_E       = True
+```
 
 DIRECTORIES NEED TO BE ADJUSTED (THE NOTEBOOKS WERE RUN ON KAGGLE NOTEBOOKS AND ARE A BIT DIFFERENT WITH THE ROOTS AND STUFF) 
 
