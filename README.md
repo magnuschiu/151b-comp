@@ -16,7 +16,14 @@ RUN_C       = True
 RUN_D       = True
 RUN_E       = True
 ```
+Change EVAL_N TO HOW LARGE private.jsonl is
+```
 
+# ── data split ───────────────────────────────────────────────────────────────
+TEST_FRAC = 0.20        # 80% train (GRPO) / 20% test
+EVAL_N    = 100         # stratified eval subset of the test split, shared by ALL runs
+EVAL_FULL_TEST = False  # True: D/E also evaluated on the full 20% test split
+```
 DIRECTORIES NEED TO BE ADJUSTED (THE NOTEBOOKS WERE RUN ON KAGGLE NOTEBOOKS AND ARE A BIT DIFFERENT WITH THE ROOTS AND STUFF) 
 
 i tried my best. its hard given the circumstances, i had.
